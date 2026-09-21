@@ -1,0 +1,140 @@
+{
+  "replacement_rules": [
+    {
+      "type": "group",
+      "name": "Model",
+      "expanded": true,
+      "children": [
+        {
+          "name": "Body Replace",
+          "replace_ids": [
+            12613284036
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://github.com/randomck23/Reaver-Vandel/raw/refs/heads/main/reaver%20body.obj"
+        },
+        {
+          "name": "Upper Replace",
+          "replace_ids": [
+            12613284249
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://github.com/randomck23/Reaver-Vandel/raw/refs/heads/main/reaver%20bits.obj"
+        },
+        {
+          "name": "Bolt Replace",
+          "replace_ids": [
+            12613283355
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://github.com/randomck23/Reaver-Vandel/raw/refs/heads/main/reaver%20bolt.obj"
+        },
+        {
+          "name": "Mag Replace",
+          "replace_ids": [
+            12613284529
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://github.com/randomck23/Reaver-Vandel/raw/refs/heads/main/reaver%20mag.obj"
+        },
+        {
+          "name": "Hide Extras",
+          "replace_ids": [
+            12613283569,
+            14652718299,
+            12613284768
+          ],
+          "mode": "id",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "name": "Sound",
+      "expanded": true,
+      "children": [
+        {
+          "name": "Shoot Replace",
+          "replace_ids": [
+            13087362838
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://github.com/randomck23/Reaver-Vandel/raw/refs/heads/main/reaver%20shoot.mp3"
+        },
+        {
+          "name": "Reload Replace1",
+          "replace_ids": [
+            13236549929,
+            13236549962
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://github.com/randomck23/Reaver-Vandel/raw/refs/heads/main/reaver%20load1.mp3"
+        },
+        {
+          "name": "Reload Replace",
+          "replace_ids": [
+            13455395017
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://github.com/randomck23/Reaver-Vandel/raw/refs/heads/main/reaver%20load2.mp3"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "name": "Icon",
+      "expanded": true,
+      "children": [
+        {
+          "name": "Icon Replace 1",
+          "replace_ids": [
+            17160682738
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://github.com/randomck23/Reaver-Vandel/blob/main/reaver%20vandel%20thumbnail.png?raw=true"
+        },
+        {
+          "name": "Icon Replace 2",
+          "replace_ids": [
+            13197584241
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://github.com/randomck23/Reaver-Vandel/blob/main/reaver%20vandel%20thumbnail%202.png?raw=true"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "name": "Credits",
+      "expanded": true,
+      "children": [
+        {
+          "name": "Sounds+Model - @\ud835\udd6f\ud835\udd8a\ud835\udd92\ud835\udd94\ud835\udd93",
+          "replace_ids": [
+            10
+          ],
+          "mode": "id",
+          "enabled": true
+        },
+        {
+          "name": "Splitting the model up + Baking textures + Config work - @randomck23",
+          "replace_ids": [
+            10
+          ],
+          "mode": "id",
+          "enabled": true
+        }
+      ]
+    }
+  ]
+}
